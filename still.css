@@ -1,0 +1,62 @@
+@charset "utf-8";
+/* CSS Document */
+p { color:black;
+	font-family: Cambria, "Hoefler Text", "Liberation Serif", "Times New Roman", "serif";
+	font-size: 16px;
+	line-height: 18px;
+	width: 600px;
+	background-color:antiquewhite;
+	padding: 20px;
+	
+}
+.paragraf_2 {
+	color: darkcyan;
+	background-color: rgba(255, 255, 255, 0.4)
+
+}
+.novi_blok {
+	background-color: rgba(255, 255, 255, 0.2);
+	padding:20px;
+	margin: 20px;
+	width: 50%;
+}
+h1, h2 {
+	font-family: "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", "DejaVu Sans", Verdana, "sans-serif";
+	color: darkblue;
+}
+span{color:rgb(259,0,255);}
+body{
+	background-image: url("slike/background.jpg");
+	padding-left:300px;
+	padding-right: 350px;
+	
+	
+}
+a:link {
+	color: black;
+	background-color: whitesmoke;
+	padding: 5px;
+	line-height: 40px;
+	border: 1px solid #131111;
+}
+a:hover{
+		background-color: hotpink;
+}
+
+img {
+	height: 200px; 
+}
+b, header {
+	padding-left: 450;
+}
+ul{
+	
+
+	color:black;
+	font-family: Cambria, "Hoefler Text", "Liberation Serif", "Times New Roman", "serif";
+	font-size: 16px;
+	line-height: 18px;
+	width: 600px;
+	background-color:lightblue;
+	padding: 20px;
+}
